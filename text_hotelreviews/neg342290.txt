@@ -1,0 +1,1 @@
+delayed check in room not cleaned on day

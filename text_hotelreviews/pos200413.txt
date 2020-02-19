@@ -1,0 +1,1 @@
+location bed size of rooms

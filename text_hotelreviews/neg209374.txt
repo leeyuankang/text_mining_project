@@ -1,0 +1,1 @@
+no extra pillows when requested bed too hard

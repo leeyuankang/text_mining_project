@@ -1,0 +1,1 @@
+thermostat although adjustable kept returning to the originally set temperature

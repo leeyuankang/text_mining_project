@@ -1,0 +1,1 @@
+room door shakes when next room door closes because there is common door

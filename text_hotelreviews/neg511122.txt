@@ -1,0 +1,1 @@
+swim pool not included in the already high nightly rate

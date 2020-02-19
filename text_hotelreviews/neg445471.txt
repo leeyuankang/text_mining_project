@@ -1,0 +1,1 @@
+wlan does not run in the stock it is a known problem in order to work i needed to change the room

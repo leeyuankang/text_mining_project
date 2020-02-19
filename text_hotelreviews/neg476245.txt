@@ -1,0 +1,1 @@
+dim lighting in rooms is atmospheric but can make it difficult to see overdoes the moody dark grey theme

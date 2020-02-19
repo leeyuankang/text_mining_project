@@ -1,0 +1,1 @@
+wifi when signed on it would stop working and asked to keep verifying whether we are still using it

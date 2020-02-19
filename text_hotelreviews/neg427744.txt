@@ -1,0 +1,1 @@
+extra charge for spa should not call itself a hotel and spa if thats the case serious issues with attempting to take payment twice wasted an hour try to reslove the issue not good

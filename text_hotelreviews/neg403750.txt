@@ -1,0 +1,1 @@
+wifi is always required to sign in if not using for a few seconds

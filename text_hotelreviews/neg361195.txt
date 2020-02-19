@@ -1,0 +1,1 @@
+bouncer like staff restricting access to stairs when lift was inconstant use

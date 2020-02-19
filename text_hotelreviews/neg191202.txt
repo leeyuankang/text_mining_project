@@ -1,0 +1,1 @@
+given the price of the room per night they should have included wifi

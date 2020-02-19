@@ -1,0 +1,1 @@
+room is small if there are two persons

@@ -1,0 +1,1 @@
+room spec didn t match the room allocated at check in

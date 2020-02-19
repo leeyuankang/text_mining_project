@@ -1,0 +1,1 @@
+wifi could be improved as we have to keep signing in after every few minutes

@@ -1,0 +1,1 @@
+beds size of room location cleanliness proximity to airport bus

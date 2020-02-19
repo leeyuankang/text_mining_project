@@ -1,0 +1,1 @@
+bar closing at should remain open for guests

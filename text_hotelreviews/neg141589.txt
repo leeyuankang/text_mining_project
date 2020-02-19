@@ -1,0 +1,1 @@
+min wait to check in and additional min to ready up the room worth waiting

@@ -1,0 +1,1 @@
+double charged for room as booking com had failed to cancel previous reservation and had not updated the hotel on current reservation

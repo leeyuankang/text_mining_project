@@ -1,0 +1,1 @@
+wifi didn t work would connect for a minute and then drop out and not reconnect

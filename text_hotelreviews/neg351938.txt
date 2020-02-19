@@ -1,0 +1,1 @@
+smell of smoke in the hallway should allocate smoking rooms to separate floors

@@ -1,0 +1,1 @@
+location room size appointments bathrooms breakfast value

@@ -1,0 +1,1 @@
+the room thermostat could not be set below a certain level and did not function to cool the room even to that it was necessary to open the window to reduce the temperature to an acceptable level

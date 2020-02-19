@@ -1,0 +1,1 @@
+bed should be double for family instead of single beds

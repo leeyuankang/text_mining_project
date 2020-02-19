@@ -1,0 +1,1 @@
+wifi requires a process and reconnection every time you use it

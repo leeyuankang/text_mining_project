@@ -1,0 +1,1 @@
+wifi was a bit laggy due to dns server cache problems local websites located in my country were hard to open

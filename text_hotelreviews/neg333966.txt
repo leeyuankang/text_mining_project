@@ -1,0 +1,1 @@
+service charge automatic on bar bill

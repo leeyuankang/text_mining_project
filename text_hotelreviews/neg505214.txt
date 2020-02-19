@@ -1,0 +1,1 @@
+bottom bed board meant that bed was too short constrained for a tall person

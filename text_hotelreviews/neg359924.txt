@@ -1,0 +1,1 @@
+long wait for lifts when is was busy lifts did not move for a long time even when there were queues only one lift at a time arrived in the lobby and others did not move

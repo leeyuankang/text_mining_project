@@ -1,0 +1,1 @@
+room ac controls should display temperature

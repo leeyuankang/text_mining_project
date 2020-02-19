@@ -1,0 +1,1 @@
+service charge automatically added to bills in bar and restaurant

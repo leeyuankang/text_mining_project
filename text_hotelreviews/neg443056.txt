@@ -1,0 +1,1 @@
+the distance to town dependent on train and taxi if not in own car

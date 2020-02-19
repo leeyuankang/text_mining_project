@@ -1,0 +1,1 @@
+wifi is not supporting business travelers as the latency is high and the line capacity is too low

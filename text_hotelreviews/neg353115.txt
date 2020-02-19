@@ -1,0 +1,1 @@
+some restrictions on wifi caused that it did not work for business purpose vpn connection was refused which works on standard wifi s in hotels

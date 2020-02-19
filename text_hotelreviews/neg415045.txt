@@ -1,0 +1,1 @@
+ordered kingsize bed at time of booking when check in was told that all kingsize beds taken

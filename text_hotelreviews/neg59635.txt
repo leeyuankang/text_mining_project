@@ -1,0 +1,1 @@
+controls in room were unnecessarily complicated and dos not alway work

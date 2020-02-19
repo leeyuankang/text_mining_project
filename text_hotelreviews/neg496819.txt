@@ -1,0 +1,1 @@
+payment methods firstly took deposits but refunded one and numerous payments were added on to final price which i was unaware of

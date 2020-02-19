@@ -1,0 +1,1 @@
+nothing rate score should be at least

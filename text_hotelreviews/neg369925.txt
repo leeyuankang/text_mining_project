@@ -1,0 +1,1 @@
+room size also asked for road size view but was given a room with bad view

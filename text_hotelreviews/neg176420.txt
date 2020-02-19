@@ -1,0 +1,1 @@
+hotel should call meterred only taxi to pick up guest at the hotel

@@ -1,0 +1,1 @@
+spa not finished pool closed when we wanted to use it

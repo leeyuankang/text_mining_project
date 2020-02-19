@@ -1,0 +1,1 @@
+pool bar was closed especially after being told repeatedly that it was open

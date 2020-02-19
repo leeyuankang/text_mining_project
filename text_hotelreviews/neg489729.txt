@@ -1,0 +1,1 @@
+check in and check out were extemely slow with no fast check out

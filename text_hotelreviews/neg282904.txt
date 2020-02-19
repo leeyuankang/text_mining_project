@@ -1,0 +1,1 @@
+swimming bool no tee service in room

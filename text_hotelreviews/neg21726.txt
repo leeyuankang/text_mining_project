@@ -1,0 +1,1 @@
+scaffolding for a view and being woken up at by a demonstration in the square

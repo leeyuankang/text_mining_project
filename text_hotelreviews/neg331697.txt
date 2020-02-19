@@ -1,0 +1,1 @@
+room door didn t close without a push and failed to lock from inside

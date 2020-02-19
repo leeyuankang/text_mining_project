@@ -1,0 +1,1 @@
+provide hooks for coats and turn off the lights in the closet upon closing the doors

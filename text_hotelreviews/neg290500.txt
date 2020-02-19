@@ -1,0 +1,1 @@
+the reservation could not be changed to less number of days

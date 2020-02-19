@@ -1,0 +1,1 @@
+bar should be open

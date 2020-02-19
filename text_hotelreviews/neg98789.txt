@@ -1,0 +1,1 @@
+small issue on check in where i was asked for a passport or address id which i didn t have available the request was waived but might be something to bear in mind that id might be asked for

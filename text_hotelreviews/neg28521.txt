@@ -1,0 +1,1 @@
+elevator jumps after reaching to the target floor a bigger window would be better

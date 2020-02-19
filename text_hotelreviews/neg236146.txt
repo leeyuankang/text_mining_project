@@ -1,0 +1,1 @@
+initial swipe of payment card was not cancelled after payment was taken at checkout this meant my bank account was short by and i had to spend over an hour in the bank sorting it out

@@ -1,0 +1,1 @@
+vending machine in room wasn t working but offered free room service instead

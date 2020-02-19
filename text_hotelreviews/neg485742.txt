@@ -1,0 +1,1 @@
+did not take into account the special requests for a booking made well in advance

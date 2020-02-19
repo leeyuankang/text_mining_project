@@ -1,0 +1,1 @@
+lifts from hotel to station are wonky and slow

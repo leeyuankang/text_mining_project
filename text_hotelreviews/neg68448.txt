@@ -1,0 +1,1 @@
+very slow at check in long queues whenever i passed through reception

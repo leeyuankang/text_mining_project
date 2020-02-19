@@ -1,0 +1,1 @@
+minor detail not being able to access the music being streamed in the lobby bar on the room system

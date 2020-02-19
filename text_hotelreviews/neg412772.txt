@@ -1,0 +1,1 @@
+a separate wifi login for each device was a little complex

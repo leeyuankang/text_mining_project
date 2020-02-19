@@ -1,0 +1,1 @@
+location view for the city

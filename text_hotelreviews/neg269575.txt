@@ -1,0 +1,1 @@
+better control of mini bar items were missing before we used any

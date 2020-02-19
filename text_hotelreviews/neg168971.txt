@@ -1,0 +1,1 @@
+waiters relied too much on memory when taking drink orders at breakfast due to business needed reminding better to write down orders so they are not forgotten

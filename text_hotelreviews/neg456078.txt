@@ -1,0 +1,1 @@
+out of lifts only were working leading to unacceptable levels of congestion at certain times

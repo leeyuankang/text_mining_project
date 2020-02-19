@@ -1,0 +1,1 @@
+clean new hotel with spacy room and available parking

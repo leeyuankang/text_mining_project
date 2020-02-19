@@ -1,0 +1,1 @@
+wifi disconnect from time to time then u have to write a very long code

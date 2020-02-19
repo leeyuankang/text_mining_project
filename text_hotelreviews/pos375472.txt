@@ -1,0 +1,1 @@
+we can early check in at since there are available rooms

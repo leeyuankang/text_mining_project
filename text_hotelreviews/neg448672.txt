@@ -1,0 +1,1 @@
+the price for the room varies every day so booking just calculates the final price as it is for the first day but in our case the third night was euros more expensive than the first

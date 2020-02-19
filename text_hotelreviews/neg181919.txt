@@ -1,0 +1,1 @@
+we were provided with a wifi username and password which was supposed to last one full day after about hour on the wifi the code no longer worked

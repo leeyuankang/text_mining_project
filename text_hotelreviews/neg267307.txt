@@ -1,0 +1,1 @@
+no double bed when requested during booking

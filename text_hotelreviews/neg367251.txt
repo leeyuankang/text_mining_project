@@ -1,0 +1,1 @@
+location price should be less as location is a good from dam square

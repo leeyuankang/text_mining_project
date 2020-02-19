@@ -1,0 +1,1 @@
+size of some rooms is too small we took standard rooms and one of them was much smaller

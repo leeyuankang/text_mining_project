@@ -1,0 +1,1 @@
+coffee in room should provide coffee pods as well as instant for choice

@@ -1,0 +1,1 @@
+pool could be opened earlier and later than times posted

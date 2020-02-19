@@ -1,0 +1,1 @@
+no view rooms should be cheaper than a room with a city view

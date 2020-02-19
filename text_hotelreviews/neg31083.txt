@@ -1,0 +1,1 @@
+elevator access always requires room card swiping

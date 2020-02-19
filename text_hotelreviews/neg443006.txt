@@ -1,0 +1,1 @@
+breakfast tables were not being cleaned and prepareed for next guest in time

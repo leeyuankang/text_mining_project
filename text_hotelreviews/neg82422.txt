@@ -1,0 +1,1 @@
+no ramp for disabled customer

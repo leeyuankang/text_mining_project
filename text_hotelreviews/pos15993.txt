@@ -1,0 +1,1 @@
+view the amount of usb ports sockets by the bed

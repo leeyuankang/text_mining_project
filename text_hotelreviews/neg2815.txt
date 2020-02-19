@@ -1,0 +1,1 @@
+bar closed at pm room was not ready even though arrival time asked in advance

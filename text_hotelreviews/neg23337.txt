@@ -1,0 +1,1 @@
+on check in wrong bed size was allocated which was later changed after we complained
