@@ -1,1 +1,0 @@
-sensors for the automatic bathroom lights kept turning off when in the shower which could be tricky

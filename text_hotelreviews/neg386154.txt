@@ -1,1 +1,0 @@
-check in and check out procedures were somehow problematic and both took more than minutes each

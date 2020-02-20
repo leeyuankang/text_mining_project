@@ -1,1 +1,0 @@
-cleaners should keep away from rooms when they are chatting early in the morning

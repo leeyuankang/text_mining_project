@@ -1,1 +1,0 @@
-pool filter broke down and pool was not available for two days

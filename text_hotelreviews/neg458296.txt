@@ -1,1 +1,0 @@
-only one multigym for training

@@ -1,1 +1,0 @@
-the check out procedure should be able to check out without showing up at the reception

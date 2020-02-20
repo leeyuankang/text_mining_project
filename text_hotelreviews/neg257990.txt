@@ -1,1 +1,0 @@
-bar service was quite slow as they were also doing the drinks for the restaurant which seemed to take priority over people waiting at the bar

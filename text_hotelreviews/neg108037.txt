@@ -1,1 +1,0 @@
-the issue with the tv volume was not properly fixed

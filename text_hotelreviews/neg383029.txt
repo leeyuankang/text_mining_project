@@ -1,1 +1,0 @@
-wifi was working erratically needed to cancel the network from time to time and reconnect

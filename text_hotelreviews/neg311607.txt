@@ -1,1 +1,0 @@
-minibar is automatic but it is not working

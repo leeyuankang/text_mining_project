@@ -1,1 +1,0 @@
-wifi had to be reconnected each time you wanted to use the web seems unnecessary much better to have the log in remain in place for the duration of your stay

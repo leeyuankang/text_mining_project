@@ -1,1 +1,0 @@
-fix the ability to connect own ipod to sound system

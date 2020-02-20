@@ -1,1 +1,0 @@
-only plug socket to use in room needed an adapter

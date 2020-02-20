@@ -1,1 +1,0 @@
-no view despite requesting one charge for wifi

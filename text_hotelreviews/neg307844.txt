@@ -1,1 +1,0 @@
-a bit slow for front office during check in and check out

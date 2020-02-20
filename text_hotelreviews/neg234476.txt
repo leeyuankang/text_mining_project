@@ -1,1 +1,0 @@
-when checking in we were given a wrong room which was already occupied locally noone was inside the room but what would happen if we had walked in while someone was there plus it made us wonder if they could so the same and give our room by mistake to other guest and we get a surprive random visit unacceptable

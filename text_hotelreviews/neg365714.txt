@@ -1,1 +1,0 @@
-slow at reception check in and checkout it can take up to mins

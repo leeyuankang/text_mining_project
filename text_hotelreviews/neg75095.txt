@@ -1,1 +1,0 @@
-scaffolding around hotel but suppose hotels need to be maintained at some point

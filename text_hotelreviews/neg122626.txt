@@ -1,1 +1,0 @@
-main bar service is often slow and not the most attentive

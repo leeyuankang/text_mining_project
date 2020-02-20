@@ -1,1 +1,0 @@
-you should not included the price with the rate of the room

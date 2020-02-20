@@ -1,1 +1,0 @@
-floor lighting in room doesn t turn off which was slightly annoying

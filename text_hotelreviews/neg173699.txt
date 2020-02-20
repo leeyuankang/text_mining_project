@@ -1,1 +1,0 @@
-no overhead lighting in main room main light over dressing table not working

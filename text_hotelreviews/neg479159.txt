@@ -1,1 +1,0 @@
-bamboo bar service is very slow in night time

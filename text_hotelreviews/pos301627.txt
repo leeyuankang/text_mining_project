@@ -1,1 +1,0 @@
-early check in able to leave cases after check out to collect later

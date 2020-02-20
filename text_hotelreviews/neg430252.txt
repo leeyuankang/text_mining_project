@@ -1,1 +1,0 @@
-pool bar closes before the pool closes

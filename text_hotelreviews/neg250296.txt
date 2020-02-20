@@ -1,1 +1,0 @@
-with room i booking should have good view on the street

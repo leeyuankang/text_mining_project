@@ -1,1 +1,0 @@
-variable wifi airconditioning if visiting mid summer

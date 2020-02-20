@@ -1,1 +1,0 @@
-slight problem with a payment deducted in sterling instead of euro as booked took a little time to resolve

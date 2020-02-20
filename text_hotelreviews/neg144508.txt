@@ -1,1 +1,0 @@
-heat wasn t working that well but we survived

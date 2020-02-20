@@ -1,1 +1,0 @@
-elevators waiting time is long and not stable during operation

@@ -1,1 +1,0 @@
-bad service and room was not cleaned although requested several times

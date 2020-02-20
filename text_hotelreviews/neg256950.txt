@@ -1,1 +1,0 @@
-slight delay on check in and check out

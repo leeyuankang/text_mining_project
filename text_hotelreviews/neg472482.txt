@@ -1,1 +1,0 @@
-rooms looking onto street can be noisy if window is open

@@ -1,1 +1,0 @@
-housekeeping service did not totally refresh room

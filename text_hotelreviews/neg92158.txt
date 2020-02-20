@@ -1,1 +1,0 @@
-noise small bed size ac was not working room

@@ -1,1 +1,0 @@
-benches in sauna is better to be repaired

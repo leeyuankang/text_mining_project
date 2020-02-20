@@ -1,1 +1,0 @@
-initially it was difficult to get the wifi login to work but by the next day that seemed to be fixed

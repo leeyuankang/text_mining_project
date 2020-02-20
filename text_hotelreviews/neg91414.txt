@@ -1,1 +1,0 @@
-could not access roof top bar when we wanted to due to a private function

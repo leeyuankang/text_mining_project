@@ -1,1 +1,0 @@
-cleaners kept trying to enter the room while we were asleep even though check out is at

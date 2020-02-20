@@ -1,1 +1,0 @@
-improve a bit the communication with the taxi company since there was a small misunderstanding about our taxi order to the airport which finally showed up and managed to compensate the small delay with its arrival

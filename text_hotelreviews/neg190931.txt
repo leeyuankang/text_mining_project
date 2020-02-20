@@ -1,1 +1,0 @@
-wifi should be available automatically not on request

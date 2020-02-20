@@ -1,1 +1,0 @@
-location room on floor

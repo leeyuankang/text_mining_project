@@ -1,1 +1,0 @@
-wifi connection quite weak losing the net needs to be resumed thru password frequently

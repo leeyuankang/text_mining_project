@@ -1,1 +1,0 @@
-the rooms that have a connecting door are not properly sound isolated so if you have noisy neighbors you hear everything

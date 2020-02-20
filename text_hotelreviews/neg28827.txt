@@ -1,1 +1,0 @@
-express check in machine wasn t working although no sign to notify and this delayed my check in as the machine took payment which the actual hotel couldn t find the room was very cold despite the temperature control being turned up

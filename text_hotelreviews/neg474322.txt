@@ -1,1 +1,0 @@
-wifi conection should be better very low signal in rooms

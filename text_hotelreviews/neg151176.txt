@@ -1,1 +1,0 @@
-price should be fixed in pounds stirling not changed after the booking it may be in the terms agreed but changing the price afterwards leaves a very bad taste of suspicion

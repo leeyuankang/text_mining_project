@@ -1,1 +1,0 @@
-no reading light provided by the bed

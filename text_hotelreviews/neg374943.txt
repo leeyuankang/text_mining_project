@@ -1,1 +1,0 @@
-several problems with the wifi connection getting dropped we use an airmac which the staff suggested might be the problem

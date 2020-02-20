@@ -1,1 +1,0 @@
-initial connection to internet can take many minutes dhcp server overwhelmed

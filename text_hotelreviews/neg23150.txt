@@ -1,1 +1,0 @@
-lifts a bit slow to arrive on floor and stopped unnecessarily at several floors on way down

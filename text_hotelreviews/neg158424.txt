@@ -1,1 +1,0 @@
-guest service requests can be hit and miss

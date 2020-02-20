@@ -1,1 +1,0 @@
-delayed check in has to wait for a room to be free

@@ -1,1 +1,0 @@
-position is a little far to center of town and has take bus and drive car cost calculation has some issues but good fix

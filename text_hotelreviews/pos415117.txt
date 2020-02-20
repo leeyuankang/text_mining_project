@@ -1,1 +1,0 @@
-room structure and connection between the rooms

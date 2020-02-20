@@ -1,1 +1,0 @@
-garage is ok when hotel is not full otherwise it s hard to park and the garage cannot be reserved in advance

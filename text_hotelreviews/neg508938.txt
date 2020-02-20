@@ -1,1 +1,0 @@
-open wifi without pasword connection

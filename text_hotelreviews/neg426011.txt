@@ -1,1 +1,0 @@
-price on booking and final price at checkout did not match hotel being under renovation not communicated at booking

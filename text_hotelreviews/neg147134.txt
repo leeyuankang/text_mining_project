@@ -1,1 +1,0 @@
-wifi set up should just be able to sign in

@@ -1,1 +1,0 @@
-the wifi did not work for the most part either the signal was poor or there were too many devices online and we could not get an ip address

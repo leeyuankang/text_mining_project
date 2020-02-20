@@ -1,1 +1,0 @@
-internal view from window meant we had net curtains closed when in room

@@ -1,1 +1,0 @@
-not all lifts were working so caused unnecessary waiting time needs to be looked at especially when it s the only option for disabled or guests on crutches

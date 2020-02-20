@@ -1,1 +1,0 @@
-hotel does not match declared star level

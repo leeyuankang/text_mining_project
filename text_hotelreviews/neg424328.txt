@@ -1,1 +1,0 @@
-class of hotel should not be star

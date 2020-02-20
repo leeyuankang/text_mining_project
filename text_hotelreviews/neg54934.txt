@@ -1,1 +1,0 @@
-sink leaking and not draining fast enough slow service no views in room

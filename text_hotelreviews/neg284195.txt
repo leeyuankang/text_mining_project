@@ -1,1 +1,0 @@
-placed in wrong room type on arrival but was instantly moved to correct booked room type

@@ -1,1 +1,0 @@
-check in before if room is available

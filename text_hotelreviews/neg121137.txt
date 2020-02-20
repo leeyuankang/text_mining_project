@@ -1,1 +1,0 @@
-elevator only starts from floor so you need to carry your bags through stairs

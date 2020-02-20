@@ -1,1 +1,0 @@
-delays booking in and checking out room keys did not work first time room not properly prepared on arrival coffee from primo bar cold

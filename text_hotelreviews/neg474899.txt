@@ -1,1 +1,0 @@
-the parking is supposed to be per day but that is the case only for the parking on the back and not in the basement parking if you enter to the basement parking from the main entrance the value is per day

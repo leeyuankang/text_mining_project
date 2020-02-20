@@ -1,1 +1,0 @@
-receptionist didn t check names when asking for the key anybody who knows or guess the room number could get into it

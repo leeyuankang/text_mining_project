@@ -1,1 +1,0 @@
-clean quiet nice size room

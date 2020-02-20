@@ -1,1 +1,0 @@
-no opening windows a c unit was making a bit of noise

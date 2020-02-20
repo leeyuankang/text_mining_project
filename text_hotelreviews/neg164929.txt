@@ -1,1 +1,0 @@
-room size with ref to bed position which was up against the wall at one side should have booked a larger room i think will do so next time

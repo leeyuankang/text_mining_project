@@ -1,1 +1,0 @@
-noisy road when window is open but silent when closed

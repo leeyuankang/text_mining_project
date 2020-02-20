@@ -1,1 +1,0 @@
-lifts very slow with long waiting times even sometimes not stopping at your floor while passing empty

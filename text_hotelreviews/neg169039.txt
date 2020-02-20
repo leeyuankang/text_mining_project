@@ -1,1 +1,0 @@
-coordinated queueing system at reception could be implemented rather than free for all which was confusing

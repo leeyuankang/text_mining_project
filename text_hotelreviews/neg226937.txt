@@ -1,1 +1,0 @@
-priority early check in was suggested which wasn t available

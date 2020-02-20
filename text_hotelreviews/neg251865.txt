@@ -1,1 +1,0 @@
-cleaners forgot to close our door after clean causing concern as door was left open all day

@@ -1,1 +1,0 @@
-extra cost for city taxes was not included in booking com reservation s price

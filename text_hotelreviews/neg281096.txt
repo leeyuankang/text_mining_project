@@ -1,1 +1,0 @@
-wifi connection was disconnecting all the time in the room

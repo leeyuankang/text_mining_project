@@ -1,1 +1,0 @@
-given i was in an executive room it should have a fridge

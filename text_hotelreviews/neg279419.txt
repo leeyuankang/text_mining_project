@@ -1,1 +1,0 @@
-room preference was not given at check in but was later switched to preferred room

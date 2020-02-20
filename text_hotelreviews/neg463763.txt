@@ -1,1 +1,0 @@
-temperature in gym far too low

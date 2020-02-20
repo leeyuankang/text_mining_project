@@ -1,1 +1,0 @@
-should provide an empty fridge with drinks available upon request rather than the move the drink charged immediately system

@@ -1,1 +1,0 @@
-salt cellar empty both times

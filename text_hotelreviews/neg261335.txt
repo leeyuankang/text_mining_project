@@ -1,1 +1,0 @@
-wait for extra pillow for more than mins after calling the front desk

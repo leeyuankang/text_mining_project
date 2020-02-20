@@ -1,1 +1,0 @@
-breakfast is waiter service so factor this in if you want an early start

@@ -1,1 +1,0 @@
-wifi is limited for clients per room some time it s not enough need to update this policy

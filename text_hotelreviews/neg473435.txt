@@ -1,1 +1,0 @@
-location staff information in booking was false

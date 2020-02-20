@@ -1,1 +1,0 @@
-gym room very small needs to login everytime for wifi

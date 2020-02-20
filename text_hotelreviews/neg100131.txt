@@ -1,1 +1,0 @@
-hidden charges mess up with rooms not value for many not child friendly if more than child in a room

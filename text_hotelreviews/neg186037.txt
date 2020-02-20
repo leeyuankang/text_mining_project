@@ -1,1 +1,0 @@
-website and booking confirmation showed picture and details for single room with bath however no single rooms at hotel have bath

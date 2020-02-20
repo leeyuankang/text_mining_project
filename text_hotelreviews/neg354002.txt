@@ -1,1 +1,0 @@
-hotel should provide a photo map of walking direction from amsterdam central station to hotel location

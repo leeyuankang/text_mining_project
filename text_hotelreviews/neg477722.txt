@@ -1,1 +1,0 @@
-could not connect to wifi then it was breaking and very slow

@@ -1,1 +1,0 @@
-rooms light was broken sink was not working as it suppose to be

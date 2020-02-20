@@ -1,1 +1,0 @@
-shouldn t charge any early check in fee if a room already available

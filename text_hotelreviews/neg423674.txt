@@ -1,1 +1,0 @@
-the hotel shouldn t get a star rating and the price doesn t match with services and status of the hotel at all

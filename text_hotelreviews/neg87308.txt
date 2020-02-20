@@ -1,1 +1,0 @@
-elevator service was a bit slow

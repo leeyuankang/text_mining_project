@@ -1,1 +1,0 @@
-cleanliness location n room size

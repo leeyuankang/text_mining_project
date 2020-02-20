@@ -1,1 +1,0 @@
-resistance feature in pool didn t work

@@ -1,1 +1,0 @@
-bar wasn t open due to a function

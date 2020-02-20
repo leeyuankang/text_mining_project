@@ -1,1 +1,0 @@
-long check out queue and elevator queue in rush hours

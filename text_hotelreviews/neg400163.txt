@@ -1,1 +1,0 @@
-installation for heating cooling even when turned off was generating a constant noise which could be a little disturbing over night at least this was the situation for room

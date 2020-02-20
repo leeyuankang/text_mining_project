@@ -1,1 +1,0 @@
-initial room allocation should have been better sized as a twin room it appeared like a single room being used as a twin

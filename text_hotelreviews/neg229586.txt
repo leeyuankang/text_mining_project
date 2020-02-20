@@ -1,1 +1,0 @@
-bar service was rather slow as it nearly always is in hotels

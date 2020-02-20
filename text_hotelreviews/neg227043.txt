@@ -1,1 +1,0 @@
-the heater cannot be setted directly from hotel room

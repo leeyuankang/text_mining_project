@@ -1,1 +1,0 @@
-when booking this room we read hv sauna room and fithness room available but nothing at all

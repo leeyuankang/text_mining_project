@@ -1,1 +1,0 @@
-object to automatic addition of service when ordering and collecting drinks at the bar then at checkout being asked again to pay same service charge

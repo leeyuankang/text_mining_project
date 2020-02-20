@@ -1,1 +1,0 @@
-spa access should be included with stay as it is not worth the to use facilities

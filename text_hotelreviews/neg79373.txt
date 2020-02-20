@@ -1,1 +1,0 @@
-bar can be busy when there is a function being held

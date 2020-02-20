@@ -1,1 +1,0 @@
-extra services requested through booking com were not taken into account

@@ -1,1 +1,0 @@
-gym and pool a little small did not really use them

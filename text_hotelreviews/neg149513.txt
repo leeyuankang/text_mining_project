@@ -1,1 +1,0 @@
-check in procedure is very slow and there always seems to be a queue at reception

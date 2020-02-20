@@ -1,1 +1,0 @@
-clean tidy room super location in regards to the expo

@@ -1,1 +1,0 @@
-coffee payment was confusing pool was not in order

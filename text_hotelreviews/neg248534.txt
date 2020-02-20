@@ -1,1 +1,0 @@
-lifts were not working properly all the time

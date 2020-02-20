@@ -1,1 +1,0 @@
-no minibar lights in room couldn t be dimmed either on or off

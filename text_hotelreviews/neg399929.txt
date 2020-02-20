@@ -1,1 +1,0 @@
-prepayment commission charged for paying in non euro currency when we weren t given the option to pay in euros even though this is stated on the bill that s already paid it was our choice it clearly wasn t
