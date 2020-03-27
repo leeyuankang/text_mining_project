@@ -1,6 +1,6 @@
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from nnsplit import NNSplit
-from nltk.corpus import stopwords
+# from nltk.corpus import stopwords
 import re
 import pandas as pd
 
@@ -28,12 +28,12 @@ for i in sent[0]:
     
 sent_list_lower = [sent.lower() for sent in sent_list]
 
-stop_list = stopwords.words('english')
-sent_list_lower_no_stopword_list = [[word for word in sent.split() if not word in stop_list] for sent in sent_list_lower]
-sent_list_lower_no_stopword = []
-for sent in sent_list_lower_no_stopword_list:
-    new_sent = ' '.join(sent)
-    sent_list_lower_no_stopword.append(new_sent)
+# stop_list = stopwords.words('english')
+# sent_list_lower_no_stopword_list = [[word for word in sent.split() if not word in stop_list] for sent in sent_list_lower]
+# sent_list_lower_no_stopword = []
+# for sent in sent_list_lower_no_stopword_list:
+#     new_sent = ' '.join(sent)
+#     sent_list_lower_no_stopword.append(new_sent)
 
 data = pd.DataFrame(sent_list_lower, columns=["sentence"])
 data['polarity'] = data['sentence'].apply(get_polarity)
