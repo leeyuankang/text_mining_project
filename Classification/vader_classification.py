@@ -37,7 +37,7 @@ sent_list_lower = [sent.lower() for sent in sent_list]
 
 data = pd.DataFrame(sent_list_lower, columns=["sentence"])
 data['polarity'] = data['sentence'].apply(get_polarity)
-
+print(data)
 length = (data['sentence'].apply(number_words) >= 8)
 data = data.loc[length]
 
@@ -48,5 +48,5 @@ elif polarity > -0.05 and polarity < 0.05:
     sentiment = ('neutral', polarity)
 else: 
     sentiment = ('negative', polarity)
-
+print(data)
 print(sentiment)
