@@ -12,7 +12,7 @@ file_dir = '/Users/soonhangchye/Desktop/text_mining_project/flask_backend/models
 with open(file_dir, 'rb') as file:
     logistic = pickle.load(file)[0]
 with open(file_dir, 'rb') as file:
-    user_uni = pickle.load(file)[2]
+    user_uni = pickle.load(file)[1]
 
 def stem(array):
     stemmer = PorterStemmer()
@@ -25,6 +25,7 @@ def lemmetize(array):
 def label_review(review):
     # need to convert to dataframe level
     # remove stopwords
+    review = review.split()
     review = [word for word in review if word not in stop_list]
 
     # make words case-insensitive
@@ -48,3 +49,5 @@ def label_review(review):
         return "Positive"
     else:
         return "Negative"
+
+
