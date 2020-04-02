@@ -26,7 +26,7 @@ def preprocessing(review):
     
     return vec_lem
 
-unseen_rev= preprocessing("their service is good. But the paper is bad.")
+# unseen_rev= preprocessing("their service is good. But the paper is bad.")
 # print(unseen_rev)
 
 def assign_topic(sentence):

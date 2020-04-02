@@ -42,6 +42,7 @@ def process_file_upload():
     
     # assign topic to each sentence using lda
     reviews_df['topic'] = reviews_df['sentence'].apply(assign_topic)
+    print(reviews_df['topic'])
 
     # create dictionary for first data table (sentence level analysis)
     sen_lvl_data = sentence_lvl_analysis_data(reviews_df)
