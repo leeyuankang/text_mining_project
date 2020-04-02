@@ -6,7 +6,7 @@ import pickle
 import requests, json
 
 from models.vader_classification import assign_sentiment
-# from models.doc_classification import label_review
+from models.doc_classification import label_review
 from models.lda_preprocessing import assign_topic
 
 upload_folder = "./upload_folder"
@@ -28,7 +28,7 @@ def process_file_upload():
 
     # convert CSV into dataframe before running vader and topic modelling function
     reviews_df = pd.read_csv(uploaded_file)
-
+    print(reviews_df)
     # insert row count (no of reviews)
     topbar_data = [reviews_df.shape[0]]
     
@@ -36,6 +36,9 @@ def process_file_upload():
 
     reviews_df = reviews_df.reindex(columns=['review_id','reviews'])
 
+    # classify each reviews using our log reg model
+    classified_reviews_df = classify_review(reviews_df)
+    
     # label the reviews into positive and negative
     # but cannot find the pickle file some reason
     # reviews_df['Sentiment(Classification)'] = reviews_df['reviews'].apply(label_review)
@@ -58,11 +61,15 @@ def process_file_upload():
     # create chart data
     chart_data = prepare_chart_data(reviews_df)
 
-    result = {'topbar_data': topbar_data, 'chart_data': chart_data, 'sen_lvl_data': sen_lvl_data}
+    result = {'classified_reviews': classified_reviews_df.to_dict('records'),'topbar_data': topbar_data, 'chart_data': chart_data, 'sen_lvl_data': sen_lvl_data}
 
     result = jsonify(result)
 
     return result, 201
+
+def classify_review(reviews_df):
+    reviews_df['classification'] = reviews_df['reviews'].apply(label_review)
+    return reviews_df
 
 def sentence_lvl_analysis_data(reviews_df):
     reviews_df = reviews_df[['review_id', "sentence", "topic", 'sen_lvl_polarity', 'sen_lvl_sentiment']]
@@ -113,7 +120,7 @@ def prepare_chart_data(reviews_df):
         "negative": neg_list,
         "neutral": neutral_list
     }
-    print(chart_data)
+    
     return chart_data
 
 if __name__ == "__main__":

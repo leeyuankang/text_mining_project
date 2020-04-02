@@ -5,6 +5,7 @@ from gensim import corpora
 import gensim
 import os
 import pickle
+import re
 
 lemmatizer= WordNetLemmatizer()
 
