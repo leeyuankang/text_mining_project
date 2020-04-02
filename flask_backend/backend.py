@@ -6,6 +6,8 @@ import pickle
 import requests, json
 
 from models.vader_classification import assign_sentiment
+# from models.doc_classification import label_review
+from models.lda_preprocessing import assign_topic
 
 upload_folder = "./upload_folder"
 
@@ -31,15 +33,69 @@ def process_file_upload():
 
     reviews_df = reviews_df.reindex(columns=['review_id','reviews'])
 
-    # reviews_df = assign_sentiment(reviews_df)
+    # label the reviews into positive and negative
+    # but cannot find the pickle file some reason
+    # reviews_df['Sentiment(Classification)'] = reviews_df['reviews'].apply(label_review)
 
-    return "Upload success", 201
+    # assign sentiment and polarity in sentence level using vader
+    reviews_df = assign_sentiment(reviews_df)
+    
+    # assign topic to each sentence using lda
+    reviews_df['topic'] = reviews_df['sentence'].apply(assign_topic)
 
+    # create dictionary for first data table (sentence level analysis)
+    sen_lvl_data = sentence_lvl_analysis_data(reviews_df)
+
+    # create chart data
+    chart_data = prepare_chart_data(reviews_df)
+
+    result = {
+            'chart_data': chart_data,
+            'sen_lvl_data': sen_lvl_data
+        }
+
+    return result, 201
+
+def sentence_lvl_analysis_data(reviews_df):
+    reviews_df = reviews_df[['review_id', "sentence", "topic", 'sen_lvl_polarity', 'sen_lvl_sentiment']]
+    reviews_df = reviews_df.rename(columns={'sen_lvl_polarity': 'polarity', 'sen_lvl_sentiment': 'sentiment'})
+    reviews_df = reviews_df.reindex(columns=['review_id', 'sentence', 'topic', 'polarity', 'sentiment'])
+    print(reviews_df.columns.values)
+
+    return reviews_df.to_dict('records')
+
+def prepare_chart_data(reviews_df):
+    chart_df = reviews_df.groupby('topic')['sen_lvl_sentiment'].value_counts(normalize=True)
+
+    chart_df = chart_df.unstack(level = -1)
+    chart_df = chart_df.reset_index()
+    chart_df = chart_df.round({'Positive':2, 'Negative':2, 'Neutral':2})
+    chart_df = chart_df.set_index('topic')
+
+    # result = {
+    #     0: {'Positive': 0.23, 'Negative':0.52, 'Neutral':0.14},
+    #     1: {'Positive': 0.23, 'Negative':0.52, 'Neutral':0.14},
+    #     2: {'Positive': 0.23, 'Negative':0.52, 'Neutral':0.14},
+    # }
+
+    result = chart_df.to_dict('index')
+    # print(result)
+    topics = list(result.keys())
+    # print(topics)
+    pos_list = [percentage['Positive'] for percentage in result.values()]
+    neg_list = [percentage['Negative'] for percentage in result.values()]
+    neutral_list = [percentage['Neutral'] for percentage in result.values()]
+    
+    chart_data = {
+        "topics": topics,
+        "positive": pos_list,
+        "negative": neg_list,
+        "neutral": neutral_list
+    }
+
+    return chart_data
 
 def label_by_review_level(review_df):
-    classification_model = pickle.load(open('./models/classification.pkl','rb'))
-
-    
 
     return "Hello"
 
