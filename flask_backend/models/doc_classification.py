@@ -9,8 +9,10 @@ import pandas as pd, numpy as np
 
 stop_list = stopwords.words('english')
 file_dir = '/Users/soonhangchye/Desktop/text_mining_project/flask_backend/models/classification.pkl'
+
 with open(file_dir, 'rb') as file:
     logistic = pickle.load(file)[0]
+    
 with open(file_dir, 'rb') as file:
     user_uni = pickle.load(file)[1]
 

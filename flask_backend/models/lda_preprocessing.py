@@ -26,8 +26,9 @@ def preprocessing(review):
     
     return vec_lem
 
-unseen_rev= preprocessing("their service is good. But the paper is bad.")
+# unseen_rev= preprocessing("their service is good. But the paper is bad.")
 # print(unseen_rev)
+
 
 def assign_topic(sentence):
     
@@ -35,7 +36,9 @@ def assign_topic(sentence):
 
     #     tester_model is the lda model that you load with pickle (rmb to change the path)
     vector=gensim_lda[sentence]
-    #     print(vector)
+    vector=vector[0]
     vector = sorted(vector, key=lambda x: x[1], reverse=True)
-    topic = vector[0][0][0]
+    print(vector)
+    topic = vector[0][0]
     return topic
+
