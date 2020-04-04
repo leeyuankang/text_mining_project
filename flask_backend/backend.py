@@ -28,7 +28,7 @@ def process_file_upload():
 
     # convert CSV into dataframe before running vader and topic modelling function
     reviews_df = pd.read_csv(uploaded_file)
-    print(reviews_df)
+    
     # insert row count (no of reviews)
     topbar_data = [reviews_df.shape[0]]
     
