@@ -28,7 +28,7 @@ def lemmetize(array):
 def label_review(review):
     # need to convert to dataframe level
     # remove stopwords
-    print(review)
+    
     review = review.split()
     review = [word for word in review if word not in stop_list]
 
