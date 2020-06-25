@@ -12,8 +12,9 @@ lemmatizer= WordNetLemmatizer()
 stop_list = stopwords.words('english')
 stop_list += ['e', 'etc','u','hotel','always', 'know', 'have', 'would', 'take', 'choose', 'the', 'first', 'second', 'lovely', 'will', 'definitely', 'longer', 'stayed', 'also']
 
-# pickle_file_dir = "/Users/soonhangchye/Desktop/text_mining_project/flask_backend/models/ldamallet_model5050783.pickle"
-pickle_file_dir = "/Users/yuankanglee/Google Drive/SMU/Year 3/Sem-2/IS450-Text Mining and Language Processing/Project/github/flask_backend/models/ldamallet_model5050783.pickle"
+cur_dir_abs_path = os.path.dirname(os.path.abspath(__file__))
+
+pickle_file_dir = f"{cur_dir_abs_path}/ldamallet_model5050783.pickle"
 tester_model= pickle.load(open(pickle_file_dir,'rb'))
 
 gensim_lda = gensim.models.wrappers.ldamallet.malletmodel2ldamodel(tester_model)

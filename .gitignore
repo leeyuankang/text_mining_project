@@ -2,3 +2,6 @@
 
 .ds_store
 data
+/flask_backend/test.py
+*.csv
+*.pyc
