@@ -5,3 +5,5 @@ data
 /flask_backend/test.py
 *.csv
 *.pyc
+venv_flask_be
+*__pycache__

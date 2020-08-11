@@ -1,6 +1,6 @@
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from nnsplit import NNSplit
-# from nltk.corpus import stopwords
+
 import re
 import pandas as pd
 
